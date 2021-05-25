@@ -1,1 +1,1 @@
-This is the start of the classiciation project.
+This is the start of the classification project.
